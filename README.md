@@ -28,6 +28,9 @@ Welcome to the official repository of the **Flutter FDP (Faculty Development Pro
 
 ## 🛠️ Setup Instructions
 
+1. How to enable USB Debugging (https://www.youtube.com/watch?v=Ucs34BkfPB0)
+2. Check the Installation guide in this repo for getting started
+
 To run the sample apps or exercises provided:
 
 1. **Clone this repo**
