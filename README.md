@@ -6,7 +6,7 @@ Welcome to the official repository of the **Flutter FDP (Faculty Development Pro
 
 ## 📌 About the FDP
 
-- **Duration:** 1 Day
+- **Duration:** 10 Day
 - **Target Audience:** Faculty members of Computer Science, IT, and related departments
 - **Objective:** To provide hands-on training on building mobile applications using Flutter and Dart
 - **Level:** Beginner to Intermediate
