@@ -35,6 +35,7 @@ To run the sample apps or exercises provided:
 
 1. Create a Text widget which displays your name in the center of screen.
 2. Create a Image widget which displays our organisation logo in the center of screen.
+3. Create a CircleAvatar and apply column widget to display a profile icon, and name, designation beside profile icon
 
 1. **Clone this repo**
    ```bash
