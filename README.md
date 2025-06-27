@@ -34,6 +34,7 @@ Welcome to the official repository of the **Flutter FDP (Faculty Development Pro
 To run the sample apps or exercises provided:
 
 1. Create a Text widget which displays your name in the center of screen.
+2. Create a Image widget which displays our organisation logo in the center of screen.
 
 1. **Clone this repo**
    ```bash
