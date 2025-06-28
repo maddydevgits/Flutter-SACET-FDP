@@ -60,7 +60,8 @@ Try the following exercises after setup:
    - Your name  
    - Your designation  
    (all aligned beside each other)
-
+4. ** Responsive UI**
+   
 ---
 
 Happy Learning! 🎉  
