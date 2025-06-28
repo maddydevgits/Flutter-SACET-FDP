@@ -61,8 +61,16 @@ Try the following exercises after setup:
    - Your designation  
    (all aligned beside each other)
 4. **Responsive UI**
-5. **Navigation**
-   
+   Build a profile page layout that adapts to screen width using LayoutBuilder.
+   - Use Row layout when width > 600
+   - Use Column layout when width <= 600
+   - Include a CircleAvatar and profile details like name, designation, and company
+   - Test the layout on both mobile and tablet emulators
+6. **Navigation**
+   Implement basic screen navigation using Navigator.push.
+   - Create two screens: HomeScreen and SecondScreen
+   - Add a button on HomeScreen to navigate to SecondScreen
+   - On SecondScreen, display a back button or use Navigator.pop(context) to return
 ---
 
 Happy Learning! 🎉  
