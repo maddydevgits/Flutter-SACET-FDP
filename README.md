@@ -71,6 +71,8 @@ Try the following exercises after setup:
    - Create two screens: HomeScreen and SecondScreen
    - Add a button on HomeScreen to navigate to SecondScreen
    - On SecondScreen, display a back button or use Navigator.pop(context) to return
+
+JSON API Server: https://jsonplaceholder.typicode.com/users
 ---
 
 Happy Learning! 🎉  
